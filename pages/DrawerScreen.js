@@ -27,9 +27,9 @@ const styles = StyleSheet.create({
         padding: 20,
     },
     title: {
-        fontSize: 32,
+        fontSize: 30,
         fontWeight: "bold",
-        color: "darkgreen",
+        color: "darkgreen",        
         marginBottom: 10,
     },
     subtitle: {
